@@ -77,7 +77,7 @@ portas_comuns = {
 
 
 # recebendo info -------------------------------
-endereço = input("Digite o domínio ou IP para escanear: ") # receb endereço do usuário
+endereço = input("Digite o domínio ou IP para escanear: ") # recebe endereço do usuário
 
 porta_init = int(input("Porta inicial: "))# recebe porta inicial
 porta_end = int(input("Porta final: "))# recebe porta final
